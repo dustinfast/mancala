@@ -2,7 +2,7 @@
 
 A Human vs Computer Manacala game - A demonstration of an adversarial AI applied to the zero-sum game of Mancala. Uses a minimax algorithm with alpha/beta pruning to competently compete against the user.
 
-![alt text](https://github.com/dustinfast/mancala/preview.png"Board preview.")
+![alt text][board]
 
 ## Usage
 
@@ -12,3 +12,6 @@ Run with `./mancala [ MAX_SEARCH_DEPTH ]` (or `mancala [ MAX_SEARCH_DEPTH ]`, on
 ## MAX_SEARCH_DEPTH
 
 The minimax algorithm parses it's decision space as a tree. MAX_SEARCH_DEPTH defines the maximum depth the algorithm may explore to before being forced to decide on a move. A higher max depth will give make the computer player "smarter", but at a geometrically increasing cost to performance.
+
+
+[board]: https://github.com/dustinfast/mancala/preview.png "Board Preview"

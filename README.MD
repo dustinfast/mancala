@@ -1,4 +1,4 @@
-# Mancala
+# Mancala Agent
 
 A Human vs Computer Manacala game - Built as demonstration of an adversarial AI applied to the zero-sum game of Mancala. Uses a minimax algorithm with alpha/beta pruning to competently compete against the user.
 

@@ -7,7 +7,7 @@ A Human vs Computer Manacala game - Built as demonstration of an adversarial AI 
 ## Usage
 
 Complile with `g++ mancala.cpp` (or equivelant).
-Run with `./mancala [ MAX_SEARCH_DEPTH ]` (`mancala [ MAX_SEARCH_DEPTH ]` on windows)
+Run with `./mancala [ MAX_SEARCH_DEPTH ]`
 
 ## MAX_SEARCH_DEPTH
 
